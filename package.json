@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-simple-button",
+  "version": "1.0.1",
+  "description": "Leaflet Control to add a simple yet pretty iconized button (Font Awesome icon) on the map with a custom callback.",
+  "main": "leaflet-simple-button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cgastrell/leaflet-simple-button"
+  },
+  "author": "Christian Gastrell <cgastrell@gmail.com> (https://github.com/CGastrell)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgastrell/leaflet-simple-button/issues"
+  },
+  "homepage": "https://github.com/cgastrell/leaflet-simple-button"
+}
