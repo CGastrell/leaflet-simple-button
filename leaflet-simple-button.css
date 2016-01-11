@@ -7,15 +7,18 @@
   overflow: hidden;
   width: 36px;
   height: 36px;
+  padding: 5px;
 }
 
 .leaflet-control-simplebutton a {
-  border-radius: 5px;
   color: #000;
   cursor: pointer;
-  line-height: 36px;
+  line-height: 150%;
   white-space: nowrap;
-  padding: 8px 10px;
+  text-align: center;
+  display: block;
+  width: 100%;
+  height: 100%;
   font-size: 18px;
   text-decoration: none;
   background: transparent;
@@ -40,7 +43,5 @@
 }
 
 .leaflet-touch .leaflet-control-simplebutton a {
-  line-height: 44px;
-  padding: 10px 12px;
   font-size: 22px;
 }
